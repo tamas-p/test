@@ -1,3 +1,8 @@
+## 0.1.2+2
+
+ - **DOCS**: Added Comment4 comment to first.
+ - **DOCS**: Added one more comment to first.
+
 ## 0.1.2+1
 
  - **FIX**: Changed to false.
