@@ -6,5 +6,5 @@ class Awesome {
   // Comment2
   // Comment3
   // Comment4
-  bool get isAwesome => false;
+  bool get isAwesome => true;
 }
