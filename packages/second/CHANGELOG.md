@@ -1,3 +1,7 @@
+## 0.1.3
+
+ - **FEAT**: Added one more isAwsome method.
+
 ## 0.1.2
 
  - **FIX**: Changed 1.0.0 to 0.1.0 in CHANGELOG.md filed.
