@@ -3,5 +3,5 @@
 /// Checks if you are awesome. Spoiler: you are.
 class Awesome {
   bool get isAwesome => true;
-  bool get isAwesome2 => false;
+  bool get isAwesome2 => true;
 }
