@@ -1,3 +1,7 @@
+## 0.1.3+3
+
+ - **DOCS**: Added some comments in relation to [#4](https://github.com/tamas-p/test/issues/4).
+
 ## 0.1.3+2
 
  - **FIX**: Changed back to false. See [#1](https://github.com/tamas-p/test/issues/1).
