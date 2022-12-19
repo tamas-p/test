@@ -1,6 +1,6 @@
 name: test 
 
-repository: https://gitlab.com/tamas-p/test
+repository: https://github.com/tamas-p/test
 
 packages:
   - packages/*
