@@ -1,3 +1,9 @@
+## 0.2.0
+
+> Note: This release has breaking changes.
+
+ - **BREAKING** **FEAT**: Added a feature to return true.
+
 ## 0.1.2+2
 
  - **DOCS**: Added Comment4 comment to first.
