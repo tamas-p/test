@@ -6,5 +6,6 @@ class Awesome {
   // Comment2
   // Comment3
   // Comment4
+  // Comment5
   bool get isAwesome => true;
 }
