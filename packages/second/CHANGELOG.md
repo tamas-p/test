@@ -1,3 +1,7 @@
+## 0.1.3+2
+
+ - **FIX**: Changed back to false. See [#1](https://github.com/tamas-p/test/issues/1).
+
 ## 0.1.3+1
 
  - **FIX**: It fixes issue [#1](https://gitlab.com/tamas-p/test/-/issues/1).
