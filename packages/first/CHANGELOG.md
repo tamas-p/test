@@ -1,3 +1,11 @@
+## 0.3.0
+
+> Note: This release has breaking changes.
+
+ - **DOCS**: Added plus one more comment.
+ - **DOCS**: Added one more comment.
+ - **BREAKING** **FIX**: Changed back to false.
+
 ## 0.2.0
 
 > Note: This release has breaking changes.
