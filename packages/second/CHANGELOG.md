@@ -1,3 +1,7 @@
+## 0.1.4
+
+ - **FEAT**: Added one more isAwsome.
+
 ## 0.1.3+3
 
  - **DOCS**: Added some comments in relation to [#4](https://github.com/tamas-p/test/issues/4).
