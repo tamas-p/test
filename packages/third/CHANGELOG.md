@@ -1,3 +1,7 @@
+## 0.1.1+1
+
+ - **DOCS**: Added comment do isAwsome2.
+
 ## 0.1.1
 
  - **FEAT**: Added new isAwsome to third.
