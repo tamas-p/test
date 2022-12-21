@@ -1,3 +1,7 @@
+## 0.1.5
+
+ - **FEAT**: Added one more isAwsome to second.
+
 ## 0.1.4
 
  - **FEAT**: Added one more isAwsome.
