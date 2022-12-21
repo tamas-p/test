@@ -6,4 +6,5 @@ class Awesome {
   bool get isAwesome => true;
   bool get isAwesome2 => true;
   bool get isAwesome3 => true;
+  bool get isAwesome4 => true;
 }
